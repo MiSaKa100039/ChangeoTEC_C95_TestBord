@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PART1_ID3 Pin=TP16-1
+Removed Pin From Net: NetName=PART1_CMP Pin=TP27-1
+Removed Pin From Net: NetName=PART1_ID2 Pin=TP65-1
+Added Pin To Net: NetName=PART2_ID3 Pin=TP16-1
+Added Net: Name=PART2_ID3
+Added Pin To Net: NetName=PART3_CMP Pin=TP27-1
+Added Net: Name=PART3_CMP
+Added Pin To Net: NetName=PART7_ID2 Pin=TP65-1
+Added Net: Name=PART7_ID2

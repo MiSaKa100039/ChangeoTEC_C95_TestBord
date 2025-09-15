@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LIN Pin=JP11-1
+Removed Pin From Net: NetName=VCC12V Pin=JP11-3
+Added Pin To Net: NetName=VCC12V Pin=JP11-1
+Added Pin To Net: NetName=LIN Pin=JP11-3

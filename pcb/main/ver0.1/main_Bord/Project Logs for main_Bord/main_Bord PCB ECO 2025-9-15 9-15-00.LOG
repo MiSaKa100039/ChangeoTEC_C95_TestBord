@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PART1_W Pin=TP30-1
+Added Pin To Net: NetName=PART3_W Pin=TP30-1
+Added Net: Name=PART3_W
