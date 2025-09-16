@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=Part1_W Pin=JP2-1
+Removed Pin From Net: NetName=Part1_U Pin=JP2-3
+Removed Pin From Net: NetName=Part1_W Pin=JP3-1
+Removed Pin From Net: NetName=Part2_U Pin=JP3-3
+Change Component Footprint: Designator=JP2 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP3 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP4 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP5 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP6 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP7 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP8 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=JP9 Old Footprint=XH2.54-LI-3P New Footprint=XH2.54-LI-4P
+Change Component Comment : Designator=JP2 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP3 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP4 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP5 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP6 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP7 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP8 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change Component Comment : Designator=JP9 Old Comment=HDR-1X3 New Comment=HDR-1X4
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "XH2.54-LI-3P"; UniqueID = "\IHQHBWIA" ("\IHQHBWIA")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP3" ("JP3"); Footprint = "XH2.54-LI-3P"; UniqueID = "\WACQDZEB" ("\WACQDZEB")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP4" ("JP4"); Footprint = "XH2.54-LI-3P"; UniqueID = "\YCBCGIVJ" ("\YCBCGIVJ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP5" ("JP5"); Footprint = "XH2.54-LI-3P"; UniqueID = "\AQCURNKK" ("\AQCURNKK")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP6" ("JP6"); Footprint = "XH2.54-LI-3P"; UniqueID = "\WQELLWJT" ("\WQELLWJT")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP7" ("JP7"); Footprint = "XH2.54-LI-3P"; UniqueID = "\SOUSHLWK" ("\SOUSHLWK")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP8" ("JP8"); Footprint = "XH2.54-LI-3P"; UniqueID = "\DXIBZBJF" ("\DXIBZBJF")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP9" ("JP9"); Footprint = "XH2.54-LI-3P"; UniqueID = "\HYINAZCP" ("\HYINAZCP")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Part1_U Pin=JP2-1
+Added Pin To Net: NetName=Part1_W Pin=JP2-3
+Added Pin To Net: NetName=VCC3V3 Pin=JP2-4
+Added Pin To Net: NetName=Part2_U Pin=JP3-1
+Added Pin To Net: NetName=Part1_W Pin=JP3-3
+Added Pin To Net: NetName=VCC3V3 Pin=JP3-4
+Added Pin To Net: NetName=VCC3V3 Pin=JP4-4
+Added Pin To Net: NetName=VCC3V3 Pin=JP5-4
+Added Pin To Net: NetName=VCC3V3 Pin=JP6-4
+Added Pin To Net: NetName=VCC3V3 Pin=JP7-4
+Added Pin To Net: NetName=VCC3V3 Pin=JP8-4
+Added Pin To Net: NetName=VCC3V3 Pin=JP9-4
+Change Net Name : Old Net Name=Part3_U New Net Name=Part3_W
+Change Net Name : Old Net Name=Part3_W New Net Name=Part3_U
+Change Net Name : Old Net Name=Part4_U New Net Name=Part4_W
+Change Net Name : Old Net Name=Part4_W New Net Name=Part4_U
+Change Net Name : Old Net Name=Part5_U New Net Name=Part5_W
+Change Net Name : Old Net Name=Part5_W New Net Name=Part5_U
+Change Net Name : Old Net Name=Part6_U New Net Name=Part6_W
+Change Net Name : Old Net Name=Part6_W New Net Name=Part6_U
+Change Net Name : Old Net Name=Part7_U New Net Name=Part7_W
+Change Net Name : Old Net Name=Part7_W New Net Name=Part7_U
+Change Net Name : Old Net Name=Part8_U New Net Name=Part8_W
+Change Net Name : Old Net Name=Part8_W New Net Name=Part8_U

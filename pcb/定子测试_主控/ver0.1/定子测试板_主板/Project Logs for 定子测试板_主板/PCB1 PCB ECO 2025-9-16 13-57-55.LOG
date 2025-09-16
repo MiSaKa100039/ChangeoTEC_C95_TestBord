@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=Button Pin=U2-2
+Added Pin To Net: NetName=Part1_LED_U Pin=U2-3
+Added Pin To Net: NetName=Part1_LED_V Pin=U2-4
+Added Pin To Net: NetName=Part1_LED_W Pin=U2-5
+Added Pin To Net: NetName=Part2_LED_U Pin=U2-6
+Added Pin To Net: NetName=Part2_LED_V Pin=U2-7
+Added Pin To Net: NetName=Part2_LED_W Pin=U2-8
+Added Pin To Net: NetName=Part3_LED_U Pin=U2-9
+Added Pin To Net: NetName=Part3_LED_V Pin=U2-10
+Added Pin To Net: NetName=Part3_LED_W Pin=U2-11

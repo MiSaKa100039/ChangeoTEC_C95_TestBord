@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=Part3_W Pin=U2-45
+Added Pin To Net: NetName=Part3_V Pin=U2-46
+Added Pin To Net: NetName=Part3_U Pin=U2-49
+Added Pin To Net: NetName=Part4_W Pin=U2-50
+Added Pin To Net: NetName=Part4_V Pin=U2-51
+Added Pin To Net: NetName=Part4_U Pin=U2-52
+Added Pin To Net: NetName=Part1_W Pin=U2-53
+Added Pin To Net: NetName=Part1_V Pin=U2-54
+Added Pin To Net: NetName=Part1_U Pin=U2-55
+Added Pin To Net: NetName=Part2_V Pin=U2-57
+Added Pin To Net: NetName=Part2_U Pin=U2-58
+Added Pin To Net: NetName=Part2_W Pin=U2-56
+Added Net: Name=Part2_W

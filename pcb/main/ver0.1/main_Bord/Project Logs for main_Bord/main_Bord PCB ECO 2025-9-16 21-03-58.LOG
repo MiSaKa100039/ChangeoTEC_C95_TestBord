@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PART8_CMP Pin=JP8-1
+Removed Pin From Net: NetName=PART8_W Pin=JP8-2
+Removed Pin From Net: NetName=PART8_V Pin=JP8-3
+Removed Pin From Net: NetName=PART8_U Pin=JP8-4
+Added Pin To Net: NetName=PART8_U Pin=JP8-1
+Added Pin To Net: NetName=PART8_V Pin=JP8-2
+Added Pin To Net: NetName=PART8_CMP Pin=JP8-3
+Added Pin To Net: NetName=PART8_W Pin=JP8-4
