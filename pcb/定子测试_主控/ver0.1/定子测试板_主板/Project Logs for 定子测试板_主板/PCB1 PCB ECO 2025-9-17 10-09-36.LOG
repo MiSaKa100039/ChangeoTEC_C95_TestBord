@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=Q1-2
+Added Component: Designator=R11(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3 Pin=R11-2
+Add Pin To Net: Unknown Pin: Pin U3-N
+Add Pin To Net: Unknown Pin: Pin U3-P
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R11-1
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=mcu Member=Component R11 0R 1%

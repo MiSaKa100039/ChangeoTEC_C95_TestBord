@@ -1,0 +1,12 @@
+Added Component: Designator=JP?(HDR2.54-LI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT Pin=R?-1
+Added Pin To Net: NetName=VCC3V3 Pin=R?-2
+Added Member To Class: ClassName=mcu Member=Component JP? HDR-1X5
+Added Member To Class: ClassName=mcu Member=Component R? 10K 1%

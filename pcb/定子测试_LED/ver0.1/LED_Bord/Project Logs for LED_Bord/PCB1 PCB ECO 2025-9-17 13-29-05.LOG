@@ -1,0 +1,32 @@
+Added Component: Designator=J?(FPC1.0-2H-WS-30P)
+Added Pin To Net: NetName=VCC3V3 Pin=J?-1
+Added Pin To Net: NetName=VCC3V3 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=Status Pin=J?-5
+Added Pin To Net: NetName=Button Pin=J?-6
+Added Pin To Net: NetName=Part1_LED_U Pin=J?-7
+Added Pin To Net: NetName=Part1_LED_V Pin=J?-8
+Added Pin To Net: NetName=Part1_LED_W Pin=J?-9
+Added Pin To Net: NetName=Part2_LED_U Pin=J?-10
+Added Pin To Net: NetName=Part2_LED_V Pin=J?-11
+Added Pin To Net: NetName=Part2_LED_W Pin=J?-12
+Added Pin To Net: NetName=Part3_LED_U Pin=J?-13
+Added Pin To Net: NetName=Part3_LED_V Pin=J?-14
+Added Pin To Net: NetName=Part3_LED_W Pin=J?-15
+Added Pin To Net: NetName=Part4_LED_U Pin=J?-16
+Added Pin To Net: NetName=Part4_LED_V Pin=J?-17
+Added Pin To Net: NetName=Part4_LED_W Pin=J?-18
+Added Pin To Net: NetName=Part5_LED_U Pin=J?-19
+Added Pin To Net: NetName=Part5_LED_V Pin=J?-20
+Added Pin To Net: NetName=Part5_LED_W Pin=J?-21
+Added Pin To Net: NetName=Part6_LED_U Pin=J?-22
+Added Pin To Net: NetName=Part6_LED_V Pin=J?-23
+Added Pin To Net: NetName=Part6_LED_W Pin=J?-24
+Added Pin To Net: NetName=Part7_LED_U Pin=J?-25
+Added Pin To Net: NetName=Part7_LED_V Pin=J?-26
+Added Pin To Net: NetName=Part7_LED_W Pin=J?-27
+Added Pin To Net: NetName=Part8_LED_U Pin=J?-28
+Added Pin To Net: NetName=Part8_LED_V Pin=J?-29
+Added Pin To Net: NetName=Part8_LED_W Pin=J?-30
+Added Member To Class: ClassName=Sheet1 Member=Component J? Header 30X1
