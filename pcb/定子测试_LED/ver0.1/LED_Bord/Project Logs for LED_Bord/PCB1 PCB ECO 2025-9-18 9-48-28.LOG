@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP4-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP5-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP6-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP9-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP10-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP11-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP12-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP13-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP14-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP15-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP16-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP17-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP18-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP19-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP20-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP21-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP22-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP23-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=JP24-1
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP25-1
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP26-1
+Change Component Footprint: Designator=JP8 Old Footprint=LED 5MM-R New Footprint=XH2.54-WS-2P
+Added Pin To Net: NetName=NetJP4_1 Pin=JP4-1
+Added Pin To Net: NetName=NetJP5_1 Pin=JP5-1
+Added Pin To Net: NetName=NetJP6_1 Pin=JP6-1
+Added Pin To Net: NetName=NetJP9_1 Pin=JP9-1
+Added Pin To Net: NetName=NetJP10_1 Pin=JP10-1
+Added Pin To Net: NetName=NetJP11_1 Pin=JP11-1
+Added Pin To Net: NetName=NetJP12_1 Pin=JP12-1
+Added Pin To Net: NetName=NetJP13_1 Pin=JP13-1
+Added Pin To Net: NetName=NetJP14_1 Pin=JP14-1
+Added Pin To Net: NetName=NetJP15_1 Pin=JP15-1
+Added Pin To Net: NetName=NetJP16_1 Pin=JP16-1
+Added Pin To Net: NetName=NetJP17_1 Pin=JP17-1
+Added Pin To Net: NetName=NetJP18_1 Pin=JP18-1
+Added Pin To Net: NetName=NetJP19_1 Pin=JP19-1
+Added Pin To Net: NetName=NetJP20_1 Pin=JP20-1
+Added Pin To Net: NetName=GND Pin=JP20-2
+Added Pin To Net: NetName=NetJP21_1 Pin=JP21-1
+Added Pin To Net: NetName=NetJP22_1 Pin=JP22-1
+Added Pin To Net: NetName=NetJP23_1 Pin=JP23-1
+Added Pin To Net: NetName=GND Pin=JP23-2
+Added Pin To Net: NetName=NetJP24_1 Pin=JP24-1
+Added Pin To Net: NetName=NetJP25_1 Pin=JP25-1
+Added Pin To Net: NetName=NetJP26_1 Pin=JP26-1
+Added Pin To Net: NetName=GND Pin=JP26-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP6 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP9 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP10 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP11 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP12 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP13 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP14 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP15 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP16 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP17 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP18 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP19 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP20 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP21 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP22 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP23 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP24 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP25 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component JP26 HDR-1X2

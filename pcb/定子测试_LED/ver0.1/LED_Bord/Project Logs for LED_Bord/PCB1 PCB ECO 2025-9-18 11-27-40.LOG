@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=JP8-1
+Removed Pin From Net: NetName=Button Pin=JP8-2
+Added Pin To Net: NetName=Button Pin=JP8-1
+Added Pin To Net: NetName=VCC3V3 Pin=JP8-2
