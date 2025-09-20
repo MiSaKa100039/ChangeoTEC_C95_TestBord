@@ -1,0 +1,30 @@
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(OSC 3225-4P)
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=Y?-2
+Added Pin To Net: NetName=GND Pin=Y?-4
+Added Pin To Net: NetName=SWCLK Pin=U3-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U3-46
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=XIN Pin=C?-1
+Added Pin To Net: NetName=XIN Pin=U3-5
+Added Pin To Net: NetName=XIN Pin=Y?-3
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=C?-1
+Added Pin To Net: NetName=XOUT Pin=U3-6
+Added Pin To Net: NetName=XOUT Pin=Y?-1
+Added Net: Name=XOUT
+Added Member To Class: ClassName=MCU Member=Component C? 22pF/16V
+Added Member To Class: ClassName=MCU Member=Component C? 22pF/16V
+Added Member To Class: ClassName=MCU Member=Component Y? 25Mhz

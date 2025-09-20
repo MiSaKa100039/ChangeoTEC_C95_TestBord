@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=XIN Pin=U3-5
+Removed Pin From Net: NetName=XOUT Pin=U3-6
+Added Pin To Net: NetName=XOUT Pin=U3-5
+Added Pin To Net: NetName=XIN Pin=U3-6
+Added Member To Class: ClassName=MCU Member=Component C? 22pF/16V

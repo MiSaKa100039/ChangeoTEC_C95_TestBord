@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MOTOR_2B Pin=JP1-1
+Removed Pin From Net: NetName=MOTOR_2A Pin=JP1-2
+Removed Pin From Net: NetName=MOTOR_1A Pin=JP1-3
+Removed Pin From Net: NetName=MOTOR_1B Pin=JP1-4
+Added Pin To Net: NetName=MOTOR_1B Pin=JP1-1
+Added Pin To Net: NetName=MOTOR_1A Pin=JP1-2
+Added Pin To Net: NetName=MOTOR_2A Pin=JP1-3
+Added Pin To Net: NetName=MOTOR_2B Pin=JP1-4
+Added Member To Class: ClassName=MCU Member=Component C? 22pF/16V

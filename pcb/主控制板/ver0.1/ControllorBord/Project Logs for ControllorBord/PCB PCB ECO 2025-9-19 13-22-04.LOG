@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PART7_ID3 Pin=U3-59
+Removed Pin From Net: NetName=PART7_ID2 Pin=U3-61
+Added Pin To Net: NetName=PART7_ID2 Pin=U3-59
+Added Pin To Net: NetName=PART7_ID3 Pin=U3-61
+Added Member To Class: ClassName=MCU Member=Component C? 22pF/16V

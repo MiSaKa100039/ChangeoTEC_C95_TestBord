@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=JP12-1
+Added Pin To Net: NetName=VCC3V3 Pin=JP12-2
+Added Pin To Net: NetName=SWCLK Pin=JP12-3
+Added Pin To Net: NetName=SWDIO Pin=JP12-4

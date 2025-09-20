@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=MCU Member=C1
+Removed Member From Class: ClassName=MCU Member=R1
+Added Component: Designator=C26(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VCC5V Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=VCC3V3 Pin=C27-2
+Added Member To Class: ClassName=MCU Member=Component C21 1uF/10V
+Added Member To Class: ClassName=PWR Member=Component C26 330nF/16V
+Added Member To Class: ClassName=PWR Member=Component C27 100nF/16V
+Added Member To Class: ClassName=Connector Member=Component JP5 HDR-1X12
+Added Member To Class: ClassName=MCU Member=Component R8 0R 1%
