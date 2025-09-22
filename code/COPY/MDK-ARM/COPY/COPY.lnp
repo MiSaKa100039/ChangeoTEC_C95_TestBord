@@ -1,0 +1,21 @@
+--cpu Cortex-M3
+"copy\startup_stm32f103xb.o"
+"copy\main.o"
+"copy\stm32f1xx_it.o"
+"copy\stm32f1xx_hal_msp.o"
+"copy\stm32f1xx_hal_gpio_ex.o"
+"copy\stm32f1xx_hal.o"
+"copy\stm32f1xx_hal_rcc.o"
+"copy\stm32f1xx_hal_rcc_ex.o"
+"copy\stm32f1xx_hal_gpio.o"
+"copy\stm32f1xx_hal_dma.o"
+"copy\stm32f1xx_hal_cortex.o"
+"copy\stm32f1xx_hal_pwr.o"
+"copy\stm32f1xx_hal_flash.o"
+"copy\stm32f1xx_hal_flash_ex.o"
+"copy\stm32f1xx_hal_exti.o"
+"copy\system_stm32f1xx.o"
+--strict --scatter "COPY\COPY.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "COPY.map" -o COPY\COPY.axf
