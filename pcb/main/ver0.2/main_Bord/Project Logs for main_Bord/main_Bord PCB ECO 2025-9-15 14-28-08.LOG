@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC12V Pin=JP9-1
+Added Pin To Net: NetName=GND Pin=JP9-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 HDR-1X4
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 HDR-1X4
+Added Member To Class: ClassName=Sheet1 Member=Component JP7 HDR-1X4

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PART1_ID1 Pin=TP54-1
+Added Pin To Net: NetName=PART6_ID1 Pin=TP54-1
+Added Net: Name=PART6_ID1

@@ -1,0 +1,15 @@
+Added Component: Designator=JP10(MX 1.25-WS-12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP11(XH2.54-WS-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP12(MX 1.25-WS-12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component JP10 HDR-1X12
+Added Member To Class: ClassName=Sheet1 Member=Component JP11 HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component JP12 HDR-1X12

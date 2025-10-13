@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PART7_W Pin=JP7-3
+Removed Pin From Net: NetName=PART7_CMP Pin=JP7-4
+Added Pin To Net: NetName=PART7_CMP Pin=JP7-3
+Added Pin To Net: NetName=PART7_W Pin=JP7-4

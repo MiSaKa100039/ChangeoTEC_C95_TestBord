@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PART1_ID1 Pin=JP12-1
+Added Pin To Net: NetName=PART1_ID2 Pin=JP12-2
+Added Pin To Net: NetName=PART1_ID3 Pin=JP12-3
+Added Pin To Net: NetName=PART3_ID1 Pin=JP12-4
+Added Pin To Net: NetName=PART3_ID2 Pin=JP12-5
+Added Pin To Net: NetName=PART3_ID3 Pin=JP12-6
+Added Pin To Net: NetName=PART5_ID1 Pin=JP12-7
+Added Pin To Net: NetName=PART5_ID2 Pin=JP12-8
+Added Pin To Net: NetName=PART5_ID3 Pin=JP12-9
+Added Pin To Net: NetName=PART7_ID1 Pin=JP12-10
+Added Pin To Net: NetName=PART7_ID2 Pin=JP12-11
+Added Pin To Net: NetName=PART7_ID3 Pin=JP12-12

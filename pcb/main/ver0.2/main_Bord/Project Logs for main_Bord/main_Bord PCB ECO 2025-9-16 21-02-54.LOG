@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PART7_CMP Pin=JP7-1
+Removed Pin From Net: NetName=PART7_W Pin=JP7-2
+Removed Pin From Net: NetName=PART7_V Pin=JP7-3
+Removed Pin From Net: NetName=PART7_U Pin=JP7-4
+Removed Pin From Net: NetName=GND Pin=JP9-0
+Removed Pin From Net: NetName=GND Pin=JP9-0
+Removed Pin From Net: NetName=GND Pin=JP9-0
+Removed Pin From Net: NetName=GND Pin=JP9-0
+Added Pin To Net: NetName=PART7_U Pin=JP7-1
+Added Pin To Net: NetName=PART7_V Pin=JP7-2
+Added Pin To Net: NetName=PART7_W Pin=JP7-3
+Added Pin To Net: NetName=PART7_CMP Pin=JP7-4

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=LIN Pin=JP11-1
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=VCC12V Pin=JP11-3
