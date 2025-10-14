@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=PART8_ID1 Pin=JP10-1
+Removed Pin From Net: NetName=PART8_ID2 Pin=JP10-2
+Removed Pin From Net: NetName=PART8_ID3 Pin=JP10-3
+Removed Pin From Net: NetName=PART6_ID1 Pin=JP10-4
+Removed Pin From Net: NetName=PART6_ID2 Pin=JP10-5
+Removed Pin From Net: NetName=PART6_ID3 Pin=JP10-6
+Removed Pin From Net: NetName=PART4_ID1 Pin=JP10-7
+Removed Pin From Net: NetName=PART4_ID2 Pin=JP10-8
+Removed Pin From Net: NetName=PART4_ID3 Pin=JP10-9
+Removed Pin From Net: NetName=PART2_ID1 Pin=JP10-10
+Removed Pin From Net: NetName=PART2_ID2 Pin=JP10-11
+Removed Pin From Net: NetName=PART2_ID3 Pin=JP10-12
+Removed Pin From Net: NetName=VCC12V Pin=JP11-1
+Removed Pin From Net: NetName=GND Pin=JP11-2
+Removed Pin From Net: NetName=LIN Pin=JP11-3
+Removed Pin From Net: NetName=PART1_ID1 Pin=JP12-1
+Removed Pin From Net: NetName=PART1_ID2 Pin=JP12-2
+Removed Pin From Net: NetName=PART1_ID3 Pin=JP12-3
+Removed Pin From Net: NetName=PART3_ID1 Pin=JP12-4
+Removed Pin From Net: NetName=PART3_ID2 Pin=JP12-5
+Removed Pin From Net: NetName=PART3_ID3 Pin=JP12-6
+Removed Pin From Net: NetName=PART5_ID1 Pin=JP12-7
+Removed Pin From Net: NetName=PART5_ID2 Pin=JP12-8
+Removed Pin From Net: NetName=PART5_ID3 Pin=JP12-9
+Removed Pin From Net: NetName=PART7_ID1 Pin=JP12-10
+Removed Pin From Net: NetName=PART7_ID2 Pin=JP12-11
+Removed Pin From Net: NetName=PART7_ID3 Pin=JP12-12
+Removed Member From Class: ClassName=Sheet1 Member=JP11
+Removed Member From Class: ClassName=Sheet1 Member=JP12
+Change Component Footprint: Designator=JP10 Old Footprint=MX 1.25-WS-12P New Footprint=XH2.54-WS-4P
+Change Component Comment : Designator=JP10 Old Comment=HDR-1X12 New Comment=HDR-1X4
+Change component parameters: Designator = "JP10" ("JP10"); Footprint = "MX 1.25-WS-12P"; UniqueID = "\WJYVGDET" ("\WJYVGDET")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
