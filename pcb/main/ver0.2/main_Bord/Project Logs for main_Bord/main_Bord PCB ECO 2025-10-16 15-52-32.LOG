@@ -1,0 +1,34 @@
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=GND Pin=JP12-2
+Added Pin To Net: NetName=LIN Pin=JP13-1
+Added Pin To Net: NetName=FAN5_ID1_STC Pin=JP13-2
+Added Pin To Net: NetName=FAN5_ID2_STC Pin=JP13-3
+Added Pin To Net: NetName=FAN5_ID3_STC Pin=JP13-4
+Added Pin To Net: NetName=FAN6_ID1_STC Pin=JP13-5
+Added Pin To Net: NetName=FAN6_ID2_STC Pin=JP13-6
+Added Pin To Net: NetName=FAN6_ID3_STC Pin=JP13-7
+Added Pin To Net: NetName=FAN7_ID3_STC Pin=JP13-8
+Added Pin To Net: NetName=FAN7_ID2_STC Pin=JP13-9
+Added Pin To Net: NetName=FAN7_ID1_STC Pin=JP13-10
+Added Pin To Net: NetName=FAN4_ID1_STC Pin=JP13-11
+Added Pin To Net: NetName=FAN4_ID2_STC Pin=JP13-12
+Added Pin To Net: NetName=FAN4_ID3_STC Pin=JP13-13
+Added Pin To Net: NetName=FAN3_ID1_STC Pin=JP13-14
+Added Pin To Net: NetName=FAN3_ID2_STC Pin=JP13-15
+Added Pin To Net: NetName=FAN3_ID3_STC Pin=JP13-16
+Added Pin To Net: NetName=FAN2_ID1_STC Pin=JP13-17
+Added Pin To Net: NetName=FAN2_ID2_STC Pin=JP13-18
+Added Pin To Net: NetName=FAN2_ID3_STC Pin=JP13-19
+Added Pin To Net: NetName=FAN8_ID3_STC Pin=JP14-14
+Added Pin To Net: NetName=FAN8_ID2_STC Pin=JP14-15
+Added Pin To Net: NetName=FAN8_ID1_STC Pin=JP14-16
+Added Pin To Net: NetName=FAN1_ID2_STC Pin=JP14-17
+Added Pin To Net: NetName=FAN1_ID1_STC Pin=JP14-18
+Added Pin To Net: NetName=FAN1_ID3_STC Pin=JP14-19
+Added Pin To Net: NetName=Buttom Pin=JP11-1
+Added Pin To Net: NetName=Buttom Pin=JP14-8
+Added Net: Name=Buttom
+Added Pin To Net: NetName=Power_ON Pin=JP12-1
+Added Pin To Net: NetName=Power_ON Pin=JP14-9
+Added Net: Name=Power_ON
+Added Member To Class: ClassName=Sheet1 Member=Component JP11 HDR-1X2

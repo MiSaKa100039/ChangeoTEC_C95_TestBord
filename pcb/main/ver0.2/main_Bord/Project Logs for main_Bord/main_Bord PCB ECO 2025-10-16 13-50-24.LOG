@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=JP13 Old Footprint=贴片排针2.54mm_交错_16P New Footprint=HDR2.54-Y-LI-19P
+Change Component Footprint: Designator=JP14 Old Footprint=贴片排针2.54mm_交错_16P New Footprint=HDR2.54-Y-LI-19P
+Change Component Comment : Designator=JP13 Old Comment=HDR-1X16 New Comment=HDR-1X19
+Change Component Comment : Designator=JP14 Old Comment=HDR-1X16 New Comment=HDR-1X19
+Change component parameters: Designator = "JP13" ("JP13"); Footprint = "贴片排针2.54mm_交错_16P"; UniqueID = "\INGYESKE" ("\INGYESKE")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "19P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP14" ("JP14"); Footprint = "贴片排针2.54mm_交错_16P"; UniqueID = "\TQTWATNB" ("\TQTWATNB")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "19P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"

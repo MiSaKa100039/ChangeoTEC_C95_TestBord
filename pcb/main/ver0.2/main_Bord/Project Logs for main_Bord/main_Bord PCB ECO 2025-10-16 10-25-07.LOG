@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC22_2 Pin=Q1-1
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Change Footprint: Cannot match pads with new footprint in component :Q1 Footprint:DFN8_5*6
+Change Component Comment : Designator=Q1 Old Comment=AO3401 New Comment=Pmos_DFN8_5*6
+Added Pin To Net: NetName=VIN Pin=Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q1-5

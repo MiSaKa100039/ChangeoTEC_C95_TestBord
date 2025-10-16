@@ -1,0 +1,10 @@
+Added Component: Designator=JP13(贴片排针2.54mm_交错_16P)
+Add component (AddParameter): Name = "BOM名称"; Value = "16P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP14(贴片排针2.54mm_交错_16P)
+Add component (AddParameter): Name = "BOM名称"; Value = "16P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component JP13 HDR-1X16
+Added Member To Class: ClassName=Sheet1 Member=Component JP14 HDR-1X16
