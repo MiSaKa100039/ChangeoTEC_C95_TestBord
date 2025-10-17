@@ -1,0 +1,8 @@
+Change Component Comment : Designator=R1 Old Comment=10K 1% New Comment=1K 1%
+Change Component Comment : Designator=R4 Old Comment=10K 1% New Comment=1K 1%
+Change Component Comment : Designator=R7 Old Comment=10K 1% New Comment=1K 1%
+Change Component Comment : Designator=R5 Old Comment=95.3K 1% New Comment=1K 1%
+Change Component Comment : Designator=C12 Old Comment=100nF/25V New Comment=100nF 50V
+Added Pin To Net: NetName=VIN Pin=Q1-3
+Added Member To Class: ClassName=MCU Member=Component U4 STM32F103CBUX
+Added Member To Class: ClassName=MCU Member=Component Y1 25Mhz
