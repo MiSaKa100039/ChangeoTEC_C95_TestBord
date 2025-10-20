@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=FAN8_ID1_STC Pin=U6-12
+Added Pin To Net: NetName=FAN8_ID3_STC Pin=U6-13
+Added Pin To Net: NetName=FAN8_ID2_STC Pin=U6-14
+Added Pin To Net: NetName=FAN1_ID2_STC Pin=U6-15
+Added Pin To Net: NetName=FAN1_ID3_STC Pin=U6-16
+Added Pin To Net: NetName=FAN1_ID1_STC Pin=U6-17
+Added Pin To Net: NetName=FAN2_ID2_STC Pin=U6-18
+Added Pin To Net: NetName=FAN2_ID3_STC Pin=U6-20

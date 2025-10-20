@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=FAN1_ID1_STM Pin=U4-2
+Added Pin To Net: NetName=FAN3_ID3_STM Pin=U4-3
+Added Pin To Net: NetName=FAN6_ID2_STM Pin=U4-4
+Added Pin To Net: NetName=OE_1 Pin=U4-38
+Added Pin To Net: NetName=FAN3_ID2_STM Pin=U4-39
+Added Pin To Net: NetName=FAN3_ID1_STM Pin=U4-40
+Added Pin To Net: NetName=FAN2_ID3_STM Pin=U4-41
+Added Pin To Net: NetName=FAN2_ID2_STM Pin=U4-42
+Added Pin To Net: NetName=FAN2_ID1_STM Pin=U4-43
+Added Pin To Net: NetName=FAN1_ID3_STM Pin=U4-45
+Added Pin To Net: NetName=FAN1_ID2_STM Pin=U4-46

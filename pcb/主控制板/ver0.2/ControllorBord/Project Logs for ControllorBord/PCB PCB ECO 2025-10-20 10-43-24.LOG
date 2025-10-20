@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=FAN4_ID1_STC Pin=U3-12
+Added Pin To Net: NetName=FAN7_ID1_STC Pin=U3-13
+Added Pin To Net: NetName=FAN4_ID3_STC Pin=U3-14
+Added Pin To Net: NetName=FAN4_ID2_STC Pin=U3-15
+Added Pin To Net: NetName=FAN3_ID2_STC Pin=U3-16
+Added Pin To Net: NetName=FAN3_ID1_STC Pin=U3-17
+Added Pin To Net: NetName=FAN2_ID1_STC Pin=U3-18
+Added Pin To Net: NetName=FAN3_ID3_STC Pin=U3-20
+Added Pin To Net: NetName=FAN5_ID1_STC Pin=U5-12
+Added Pin To Net: NetName=FAN5_ID2_STC Pin=U5-13
+Added Pin To Net: NetName=FAN6_ID1_STC Pin=U5-14
+Added Pin To Net: NetName=FAN5_ID3_STC Pin=U5-15
+Added Pin To Net: NetName=FAN6_ID3_STC Pin=U5-16
+Added Pin To Net: NetName=FAN6_ID2_STC Pin=U5-17
+Added Pin To Net: NetName=FAN7_ID2_STC Pin=U5-18
+Added Pin To Net: NetName=FAN7_ID3_STC Pin=U5-20

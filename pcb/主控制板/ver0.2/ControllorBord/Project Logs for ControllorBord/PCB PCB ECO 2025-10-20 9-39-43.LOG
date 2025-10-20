@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=FAN3_ID3_STM Pin=U5-1
+Added Net: Name=FAN3_ID3_STM
+Added Pin To Net: NetName=FAN4_ID1_STM Pin=U5-3
+Added Net: Name=FAN4_ID1_STM
+Added Pin To Net: NetName=FAN4_ID2_STM Pin=U5-4
+Added Net: Name=FAN4_ID2_STM
+Added Pin To Net: NetName=FAN4_ID3_STM Pin=U5-5
+Added Net: Name=FAN4_ID3_STM
+Added Pin To Net: NetName=FAN5_ID1_STM Pin=U5-6
+Added Net: Name=FAN5_ID1_STM
+Added Pin To Net: NetName=FAN5_ID2_STM Pin=U5-7
+Added Net: Name=FAN5_ID2_STM
+Added Pin To Net: NetName=FAN5_ID3_STM Pin=U5-8
+Added Net: Name=FAN5_ID3_STM
+Added Pin To Net: NetName=FAN6_ID1_STM Pin=U5-9
+Added Net: Name=FAN6_ID1_STM
+Added Pin To Net: NetName=FAN6_ID2_STM Pin=U6-1
+Added Net: Name=FAN6_ID2_STM
+Added Pin To Net: NetName=FAN6_ID3_STM Pin=U6-3
+Added Net: Name=FAN6_ID3_STM
+Added Pin To Net: NetName=FAN7_ID1_STM Pin=U6-4
+Added Net: Name=FAN7_ID1_STM
+Added Pin To Net: NetName=FAN7_ID2_STM Pin=U6-5
+Added Net: Name=FAN7_ID2_STM
+Added Pin To Net: NetName=FAN7_ID3_STM Pin=U6-6
+Added Net: Name=FAN7_ID3_STM
+Added Pin To Net: NetName=FAN8_ID1_STM Pin=U6-7
+Added Net: Name=FAN8_ID1_STM
+Added Pin To Net: NetName=FAN8_ID2_STM Pin=U6-8
+Added Net: Name=FAN8_ID2_STM
+Added Pin To Net: NetName=FAN8_ID3_STM Pin=U6-9
+Added Net: Name=FAN8_ID3_STM
