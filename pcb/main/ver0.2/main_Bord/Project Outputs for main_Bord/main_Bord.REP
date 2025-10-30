@@ -2,58 +2,12 @@
 FileName = main_Bord.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Paste
-      File : main_Bord.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : main_Bord_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : main_Bord.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : main_Bord.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : main_Bord.GTO
-
-    Adding Layer      : Top Overlay
 
 
 Used DCodes :
@@ -62,13 +16,20 @@ Used DCodes :
     D12
     D13
     D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : main_Bord.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : main_Bord_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -76,28 +37,46 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
+    D10
+    D11
+    D13
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : main_Bord.GM1
+Generating : Top Overlay
+      File : main_Bord_Legend_Top.gbr
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D40
+    D10
+    D18
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : main_Bord_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D24
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : main_Bord.GTS
+      File : main_Bord_Soldermask_Top.gbr
 
     Adding Layer      : Top Solder
 
@@ -107,10 +86,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D21
-    D22
-    D23
-    D24
     D25
     D26
     D27
@@ -119,11 +94,36 @@ Used DCodes :
     D30
     D31
     D32
+    D33
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : main_Bord.GTL
+Generating : Bottom Solder
+      File : main_Bord_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : main_Bord_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -131,25 +131,13 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D14
-    D15
     D16
     D17
-    D18
-    D19
-    D20
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : main_Bord.GBP
+      File : main_Bord_Paste_Bot.gbr
 
     Adding Layer      : Bottom Paste
 
@@ -159,5 +147,27 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : main_Bord_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : main_Bord_Profile.gbr
+
+
+Used DCodes :
+    D35
 *************************************************************
 
